@@ -20,3 +20,5 @@ Data science portofolio
 * The data contain four category, it is healthy, covid-19, bacterial pheumonia, viral pneumonia
 * Convolutional Neural Networks (CNN) are used to extract features and perform classification.
 * RESNET and transfer learning are also used to make model better and faster.
+![](/images/Chest%20Disease.png)
+![](/images/Chest%20Disease.png)
