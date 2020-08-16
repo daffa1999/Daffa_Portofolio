@@ -13,6 +13,7 @@ Data science portofolio
 * The features data can be used to make model that can predict future daily sales.
 * Facebook prophet is used to produce forcasting time series data.
 * It work well for data that contain strong seasonal effects and several seasons of historical data.
+![](/images/Sales%20Forcasting.png)
 # Project 3: Chest Disease Classifier
 * Classifying chest disease with deep learning can make it automated and reduce cost and time to detect disease.
 * The X-Ray chest data can be used to develop a model that could detect and classify the diseases in short time.
