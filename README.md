@@ -21,4 +21,4 @@ Data science portofolio
 * Convolutional Neural Networks (CNN) are used to extract features and perform classification.
 * RESNET and transfer learning are also used to make model better and faster.
 ![](/images/Chest%20Disease.png)
-![](/images/Chest%20Disease.png)
+![](/images/Chest%20Disease%20confusion_matrix.png)
