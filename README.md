@@ -6,7 +6,7 @@ Data science portofolio
 * The example data can be gotten from https://www.kaggle.com/arjunbhasin2013/ccdata. 
 * K-Means is used for clustering some data points in unsupervised algorithm.
 * Autoencoders and PCA is also usued to make best customer segmentarion models.
-![](/images/Customer%20Segmentation.png)
+![](/images/Customer%20Segmentation.pn)
 # Project 2: Sales Forcasting
 * Sales forcasting is needed by comapany to make thier sales growth and can compete with other company.
 * The data is gotten from https://www.kaggle.com/c/rossmann-store-sales/data.
