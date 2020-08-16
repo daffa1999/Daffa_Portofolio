@@ -6,19 +6,19 @@ Data science portofolio
 * The example data can be gotten from https://www.kaggle.com/arjunbhasin2013/ccdata. 
 * K-Means is used for clustering some data points in unsupervised algorithm.
 * Autoencoders and PCA is also usued to make best customer segmentarion models.
-![](/images/Customer%20Segmentation.png)
+![](images/Customer%20Segmentation.png)
 # Project 2: Sales Forcasting
 * Sales forcasting is needed by comapany to make thier sales growth and can compete with other company.
 * The data is gotten from https://www.kaggle.com/c/rossmann-store-sales/data.
 * The features data can be used to make model that can predict future daily sales.
 * Facebook prophet is used to produce forcasting time series data.
 * It work well for data that contain strong seasonal effects and several seasons of historical data.
-![](/images/Sales%20Forcasting.png)
+![](images/Sales%20Forcasting.png)
 # Project 3: Chest Disease Classifier
 * Classifying chest disease with deep learning can make it automated and reduce cost and time to detect disease.
 * The X-Ray chest data can be used to develop a model that could detect and classify the diseases in short time.
 * The data contain four category, it is healthy, covid-19, bacterial pheumonia, viral pneumonia
 * Convolutional Neural Networks (CNN) are used to extract features and perform classification.
 * RESNET and transfer learning are also used to make model better and faster.
-![](/images/Chest%20Disease.png)
-![](/images/Chest%20Disease%20confusion_matrix.png)
+![](images/Chest%20Disease.png)
+![](images/Chest%20Disease%20confusion_matrix.png)
