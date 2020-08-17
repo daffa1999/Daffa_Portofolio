@@ -1,4 +1,4 @@
-# Daffa_Portofolio
+# Muhammad Daffa Aryatama Portofolio
 Data science portofolio
 # Project 1: Customer Segmantation
 * Marketing is very importent in any business. It can make company grow and sustainable. Good customer segmentaion can engage customers well, grow revenue and incarease sales.
